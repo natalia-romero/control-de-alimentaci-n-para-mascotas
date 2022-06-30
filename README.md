@@ -1,1 +1,1 @@
-# control-de-alimentaci-n-para-mascotas
+# control de alimentación para mascotas
